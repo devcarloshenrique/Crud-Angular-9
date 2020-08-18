@@ -16,9 +16,13 @@
       "price": "7520.89"
     },
     {
-      "name": "Lapis Preto Básico",
-      "price": "1.50",
-      "id": 4
+      "name": "Escrivania ",
+      "id": 4,
+      "price": "1000.00"
+    },
+    {
+      "name": "PS3",
+      "id": 5
     }
   ]
 }
